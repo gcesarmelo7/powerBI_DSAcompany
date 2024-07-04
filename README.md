@@ -25,7 +25,7 @@ Dicionário dos termos utilizados:
 
   <img align="center" src="images/definicoes.png" style="width: 60%; max-width: 400px; display: block; margin: 0 auto;"/>
 
-Caso fique difícil de visualizar, clique [aqui].(https://github.com/gcesarmelo7/powerBI_GSAcompany/blob/main/images/definicoes.png)
+Caso fique difícil de visualizar, clique [aqui](https://github.com/gcesarmelo7/powerBI_GSAcompany/blob/main/images/definicoes.png).
 
 ## 3. Business Understanding/Data Understanding
 
@@ -89,5 +89,25 @@ ferramenta de modelagem, garantindo que as operações e análises pudessem ser
 realizadas de forma adequada.
 
 <img align="center" src="images/schema_BI.png" style="width: 50%; max-width: 400px; display: block; margin: 0 auto;"/>
+
+## 5. Data Vizualization
+
+Dessa forma, na etapa final, foi realizado a construção do dashboard final proposto, obtendo-se como resultado final as abas:
+
+*- Produção*
+<img align="center" src="images/dash_1.png" style="width: 90%; max-width: 600px; display: block; margin: 0 auto;"/>
+
+- Perdas;
+<img align="center" src="images/dash_2.png" style="width: 90%; max-width: 600px; display: block; margin: 0 auto;"/>
+
+- Acidentes;
+<img align="center" src="images/dash_3.png" style="width: 90%; max-width: 600px; display: block; margin: 0 auto;"/>
+
+- Embalagens.
+<img align="center" src="images/dash_4.png" style="width: 90%; max-width: 600px; display: block; margin: 0 auto;"/>/>
+
+O sponsor agora pode navegar por essas páginas conforme sua necessidade, tendo dessa forma insights e melhorias possíveis a serem realizadas com os dados já organizados e prontos para uso.
+
+
 
 
