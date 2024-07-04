@@ -1,7 +1,7 @@
 <img align="right" width="50" height="50" src="images/powerBI.png"/>
 
 # Dashboard: Indústria do ramo alimentício
-<sub> Projeto prático utilizando PowerBI </sub>
+<sub> Criando um dashboard para a empresa GSA. </sub>
 
 ## 👉 Dados da Empresa
 
@@ -19,11 +19,16 @@
 
 GSA é uma indústria de alimentos que possui muitos SKU's e que ainda possui muito processo manual, principalmente no que diz respeito à gestão. No setor de produção, é imprescindível o acompanhamento de quantidade de acidentes, perdas da produção e da eficiência dos processos. Então para mitigar os problemas de desperdício, acidentes e melhorar a eficiência, eles precisam de uma ferramenta mais objetiva e rápida, pois é importante ter uma consulta ágil dos indicadores por conta da dinâmica da operação.
 
+Com base nisso, foi utilizado a metodologia Cross Industry Standard Process for Data Mining (CRISP-DM) para a elaboração desse projeto.
+<br>
+
+<img src="images/crisp-dm.jpg" style="width: 30%; max-width: 600px; display: block; margin: 0 auto;">
+
 ## 2. Base de dados
 
 Dicionário dos termos utilizados:
 
-  <img align="center" src="images/dicionario_2.png" style="width: 60%; max-width: 400px; display: block; margin: 0 auto;"/>
+  <img align="center" src="images/dicionario_2.png" style="width: 70%; max-width: 600px; display: block; margin: 0 auto;"/>
 
 Caso fique difícil de visualizar, clique [aqui](https://github.com/gcesarmelo7/powerBI_GSAcompany/blob/main/images/dicionario_2.png).
 
@@ -90,7 +95,7 @@ das informações. Ajustou-se o formato dos dados para atender aos requisitos da
 ferramenta de modelagem, garantindo que as operações e análises pudessem ser
 realizadas de forma adequada.
 
-<img align="center" src="images/schema_BI.png" style="width: 50%; max-width: 600px; display: block; margin: 0 auto;"/>
+<img align="center" src="images/schema_BI.png" style="width: 60%; max-width: 600px; display: block; margin: 0 auto;"/>
 Link [aqui](https://github.com/gcesarmelo7/powerBI_GSAcompany/blob/main/images/schema_BI.png).
 
 
