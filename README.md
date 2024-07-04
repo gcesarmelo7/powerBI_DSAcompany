@@ -1,7 +1,7 @@
 <img align="right" width="50" height="50" src="images/powerBI.png"/>
 
 # Dashboard: Indústria do ramo alimentício
-<sub> Criando um dashboard para a empresa GSA. </sub>
+<sub> Criação de dashboard operacional para a empresa GSA. </sub>
 
 ## 👉 Dados da Empresa
 
