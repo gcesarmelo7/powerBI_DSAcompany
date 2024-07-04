@@ -13,7 +13,7 @@
 
 **Site | Linkedin:** [https://www.linkedin.com/company/grupogsaalimentos](https://www.linkedin.com/company/grupogsaalimentos/)
 
-> Expectativa da Empresa: Que seja uma dashboard prática, de fácil entendimento e preenchimento, e que ela ajude no acompanhamento dos indicadores e na tomada de decisões pelo time e liderança.
+> **Expectativa da Empresa:** Que seja uma dashboard prática, de fácil entendimento e preenchimento, e que ela ajude no acompanhamento dos indicadores e na tomada de decisões pelo time e liderança.
 
 ## 1. Contextualização
 
@@ -23,9 +23,9 @@ GSA é uma indústria de alimentos que possui muitos SKU's e que ainda possui mu
 
 Dicionário dos termos utilizados:
 
-  <img align="center" src="images/definicoes.png" style="width: 60%; max-width: 400px; display: block; margin: 0 auto;"/>
+  <img align="center" src="images/dicionario_2.png" style="width: 60%; max-width: 400px; display: block; margin: 0 auto;"/>
 
-Caso fique difícil de visualizar, clique [aqui](https://github.com/gcesarmelo7/powerBI_GSAcompany/blob/main/images/definicoes.png).
+Caso fique difícil de visualizar, clique [aqui](https://github.com/gcesarmelo7/powerBI_GSAcompany/blob/main/images/dicionario_2.png).
 
 ## 3. Business Understanding/Data Understanding
 
@@ -73,6 +73,8 @@ consistente dos dados.
 
 <img align="center" src="images/dim_fact.png" style="width: 30%; max-width: 400px; display: block; margin: 0 auto;"/>
 
+Link [aqui](https://github.com/gcesarmelo7/powerBI_GSAcompany/blob/main/images/dim_fact.png).
+
 Utilizou-se o modelo de estrela (star-schema) para organizar as tabelas DIM e FACT. Esse modelo nos permitiu relacionar
 as informações de diferentes tabelas de forma estruturada, evitando a replicação de
 dados e simplificando os relacionamentos entre elas.
@@ -88,25 +90,27 @@ das informações. Ajustou-se o formato dos dados para atender aos requisitos da
 ferramenta de modelagem, garantindo que as operações e análises pudessem ser
 realizadas de forma adequada.
 
-<img align="center" src="images/schema_BI.png" style="width: 50%; max-width: 400px; display: block; margin: 0 auto;"/>
+<img align="center" src="images/schema_BI.png" style="width: 50%; max-width: 600px; display: block; margin: 0 auto;"/>
+Link [aqui](https://github.com/gcesarmelo7/powerBI_GSAcompany/blob/main/images/schema_BI.png).
 
-## 5. Data Vizualization
+
+## 5. Data Visualization
 
 Dessa forma, na etapa final, foi realizado a construção do dashboard final proposto, obtendo-se como resultado final as abas:
 
-*- Produção*
+### Produção :bar_chart:
 <img align="center" src="images/dash_1.png" style="width: 90%; max-width: 600px; display: block; margin: 0 auto;"/>
 
-- Perdas;
+### Perdas :bar_chart:
 <img align="center" src="images/dash_2.png" style="width: 90%; max-width: 600px; display: block; margin: 0 auto;"/>
 
-- Acidentes;
+### Acidentes :bar_chart:
 <img align="center" src="images/dash_3.png" style="width: 90%; max-width: 600px; display: block; margin: 0 auto;"/>
 
-- Embalagens.
+### Embalagens :bar_chart:
 <img align="center" src="images/dash_4.png" style="width: 90%; max-width: 600px; display: block; margin: 0 auto;"/>/>
 
-O sponsor agora pode navegar por essas páginas conforme sua necessidade, tendo dessa forma insights e melhorias possíveis a serem realizadas com os dados já organizados e prontos para uso.
+O sponsor agora pode navegar por essas páginas conforme sua necessidade, obtendo **insights e possíveis melhorias** a serem consideradas com os dados já organizados e prontos para uso.
 
 
 
